@@ -70,7 +70,7 @@ export const Inbutton = styled.span`
   font-weight: bold;
   font-size: 25px;
   line-height: 37px;
-  color: #ffffff;
+  color: #fff;
 `;
 
 export const BodyBg = styled.div`
